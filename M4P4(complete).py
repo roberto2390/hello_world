@@ -1,7 +1,7 @@
 #Roberto Rodriguez
 #10/27/2020
 # the only issue I found was that if the year was above 2020
-#it wouldnt say that it was the past
+#it wouldnt say that it was the future
 #gave it a range, but I am not sure if there was a better method 
 
 
