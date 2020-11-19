@@ -6,7 +6,7 @@ import random as r
 import Player_File as pf
 
 def phase1():
-    print(" Lets get you up to date. \n Your home has been invaded by elemental monsters, \n and your goal is to defite each unique monster")
+    print(" Lets get you up to date. \n Your home has been invaded by elemental monsters, \n and your goal is to defeat each unique monster")
     start=input(" Ready? Type Y to contine or N to restart")
 
 
